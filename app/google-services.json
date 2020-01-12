@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "688356489411",
+    "firebase_url": "https://alpha-df4ca.firebaseio.com",
+    "project_id": "alpha-df4ca",
+    "storage_bucket": "alpha-df4ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688356489411:android:92001c4ac52d82b3154a76",
+        "android_client_info": {
+          "package_name": "com.example.alpha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688356489411-dg35b3biddl08tfkudhrbq6h39drasif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alpha",
+            "certificate_hash": "618921b8ab9f60104926634b6194704e52734f6d"
+          }
+        },
+        {
+          "client_id": "688356489411-brsrn7b7204noldfmuv3gaphq3ca5752.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsOsv9KcqtiZ0-Ww6fWNGnPz_p-_x82j4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688356489411-brsrn7b7204noldfmuv3gaphq3ca5752.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
