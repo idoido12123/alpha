@@ -84,11 +84,11 @@ public class MainActivity extends AppCompatActivity {
     public boolean onOptionsItemSelected(MenuItem Item){
         String st=Item.getTitle().toString();
         if(st.equals("Auth")){
-            go = new Intent(this, Main2Activity.class);
+            go = new Intent(this, MainActivity.class);
             startActivity(go);
         }
         if (st.equals("RTDB")){
-            go = new Intent(this, MainActivity.class);
+            go = new Intent(this, Main2Activity.class);
             startActivity(go);
         }
         return true;
